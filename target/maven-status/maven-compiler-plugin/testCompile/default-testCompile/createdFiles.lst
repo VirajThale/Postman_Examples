@@ -1,0 +1,10 @@
+RESTAPIChaining\EndToEndTest.class
+RestAPI\DeleteRequest.class
+RestAPI\GetRequestWithParameters.class
+RestAPI\PostRequest.class
+RestAPI\PostCallWithJsonfile.class
+RestAPI\PostRequestWithMap.class
+RestAPI\GetRequest.class
+RESTApiBDD\GetRequest.class
+RestAPI\PutRequest.class
+RestAPI\PostRequestWithJsonObject.class
