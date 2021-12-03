@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="RESTApiBDD.GetRequest">
+      <class name="RESTApiBDD.DeleteRequest">
         <methods>
-          <include name="GetCall"/>
+          <include name="DeleteCall"/>
         </methods>
-      </class> <!-- RESTApiBDD.GetRequest -->
+      </class> <!-- RESTApiBDD.DeleteRequest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

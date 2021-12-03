@@ -1,4 +1,4 @@
-package RestAPI;
+package restAPI;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

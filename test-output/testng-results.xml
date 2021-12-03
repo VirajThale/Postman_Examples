@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-02T22:52:33 IST" name="Suite" finished-at="2021-12-02T22:52:36 IST" duration-ms="2277">
+  <suite started-at="2021-12-03T09:56:57 IST" name="Default suite" finished-at="2021-12-03T09:57:00 IST" duration-ms="3368">
     <groups>
     </groups>
-    <test started-at="2021-12-02T22:52:33 IST" name="Test" finished-at="2021-12-02T22:52:36 IST" duration-ms="2277">
-      <class name="RESTAPIChaining.EndToEndTest">
-        <test-method signature="test1()[pri:0, instance:RESTAPIChaining.EndToEndTest@6ef888f6]" started-at="2021-12-02T22:52:33 IST" name="test1" finished-at="2021-12-02T22:52:36 IST" duration-ms="2239" status="PASS">
+    <test started-at="2021-12-03T09:56:57 IST" name="Default test" finished-at="2021-12-03T09:57:00 IST" duration-ms="3368">
+      <class name="oAuth.oAuthRequest">
+        <test-method signature="PostCall()[pri:0, instance:oAuth.oAuthRequest@6ef888f6]" started-at="2021-12-03T09:56:57 IST" name="PostCall" finished-at="2021-12-03T09:57:00 IST" duration-ms="3332" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test1 -->
-      </class> <!-- RESTAPIChaining.EndToEndTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- PostCall -->
+      </class> <!-- oAuth.oAuthRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -1,4 +1,4 @@
-package RestAPI;
+package restAPI;
 
 
 

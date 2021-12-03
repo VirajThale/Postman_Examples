@@ -1,4 +1,4 @@
-package RestAPI;
+package restAPI;
 
 import org.json.JSONObject;
 import org.testng.Assert;
